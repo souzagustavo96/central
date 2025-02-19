@@ -1,0 +1,19 @@
+.dashboard-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .report-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+  }
+  
+  iframe {
+    width: 90%;
+    height: 500px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
